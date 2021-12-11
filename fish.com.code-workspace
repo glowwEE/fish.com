@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Downloads\\glowchooser-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fish.com"
+	}
+}
